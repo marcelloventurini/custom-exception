@@ -1,0 +1,15 @@
+C:\Users\marce\Study\CSharp\ExceptionEx\ExceptionEx\bin\Debug\net6.0\ExceptionEx.exe
+C:\Users\marce\Study\CSharp\ExceptionEx\ExceptionEx\bin\Debug\net6.0\ExceptionEx.deps.json
+C:\Users\marce\Study\CSharp\ExceptionEx\ExceptionEx\bin\Debug\net6.0\ExceptionEx.runtimeconfig.json
+C:\Users\marce\Study\CSharp\ExceptionEx\ExceptionEx\bin\Debug\net6.0\ExceptionEx.dll
+C:\Users\marce\Study\CSharp\ExceptionEx\ExceptionEx\bin\Debug\net6.0\ExceptionEx.pdb
+C:\Users\marce\Study\CSharp\ExceptionEx\ExceptionEx\obj\Debug\net6.0\ExceptionEx.csproj.AssemblyReference.cache
+C:\Users\marce\Study\CSharp\ExceptionEx\ExceptionEx\obj\Debug\net6.0\ExceptionEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Study\CSharp\ExceptionEx\ExceptionEx\obj\Debug\net6.0\ExceptionEx.AssemblyInfoInputs.cache
+C:\Users\marce\Study\CSharp\ExceptionEx\ExceptionEx\obj\Debug\net6.0\ExceptionEx.AssemblyInfo.cs
+C:\Users\marce\Study\CSharp\ExceptionEx\ExceptionEx\obj\Debug\net6.0\ExceptionEx.csproj.CoreCompileInputs.cache
+C:\Users\marce\Study\CSharp\ExceptionEx\ExceptionEx\obj\Debug\net6.0\ExceptionEx.dll
+C:\Users\marce\Study\CSharp\ExceptionEx\ExceptionEx\obj\Debug\net6.0\refint\ExceptionEx.dll
+C:\Users\marce\Study\CSharp\ExceptionEx\ExceptionEx\obj\Debug\net6.0\ExceptionEx.pdb
+C:\Users\marce\Study\CSharp\ExceptionEx\ExceptionEx\obj\Debug\net6.0\ExceptionEx.genruntimeconfig.cache
+C:\Users\marce\Study\CSharp\ExceptionEx\ExceptionEx\obj\Debug\net6.0\ref\ExceptionEx.dll
